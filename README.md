@@ -10,13 +10,16 @@
 
 ### Sachin Patil — Security Analyst & Vulnerability Researcher
 
-![TCS](https://img.shields.io/badge/TCS-Security%20Analyst-0066CC?style=flat-square&logo=tata-consultancy-services&logoColor=white)
-![Experience](https://img.shields.io/badge/Experience-8%2B%20Years-green?style=flat-square)
-![Location](https://img.shields.io/badge/Location-India-orange?style=flat-square&logo=googlemaps&logoColor=white)
-![MSRC](https://img.shields.io/badge/Microsoft-2x%20Hall%20of%20Fame-blue?style=flat-square&logo=microsoft&logoColor=white)
-![CVE](https://img.shields.io/badge/CVE-3x%20CVE-blue?style=flat-square&logo=microsoft&logoColor=white)
-![HackerOne](https://img.shields.io/badge/HackerOne-300%2B%20Reports%20Triaged%20&%20Resolved-494649?style=flat-square&logo=hackerone&logoColor=white)
+<div align="center">
 
+![TCS](https://img.shields.io/badge/TCS-Security%20Analyst-0078D4?style=flat-square&logo=tata-consultancy-services&logoColor=white)
+![Experience](https://img.shields.io/badge/Experience-8%2B%20Years-0078D4?style=flat-square)
+![Location](https://img.shields.io/badge/Location-India-0078D4?style=flat-square&logo=googlemaps&logoColor=white)
+![Microsoft](https://img.shields.io/badge/Microsoft-2x%20Hall%20of%20Fame-0078D4?style=flat-square&logo=microsoft&logoColor=white)
+![CVE](https://img.shields.io/badge/CVE-3x%20CVE-0078D4?style=flat-square)
+![HackerOne](https://img.shields.io/badge/HackerOne-300%2B%20Reports%20Triaged%20%26%20Resolved-0078D4?style=flat-square&logo=hackerone&logoColor=white)
+
+</div>
 </div>
 
 ---
@@ -27,7 +30,7 @@
 |--------|----------|---------|
 | [CVE-2026-7461](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2026-7461) | 🔴 HIGH | **Amazon ECS Agent** — Remote Command Injection in container orchestration |
 | [CVE-2026-40931](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2026-40931) | 🔴 HIGH | **Path Traversal + Symlink Poisoning** — Filesystem escape via junction abuse |
-| [CVE-2026-42043](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2026-42043) | 🟠 HIGH | **Axios SSRF** — Server-Side Request Forgery in axios HTTP client |
+| [CVE-2026-42043](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2026-42043) | 🔴 HIGH | **Axios SSRF** — Server-Side Request Forgery in axios HTTP client |
 
 
 ---
@@ -109,8 +112,8 @@ Research writeups, CVE analyses & methodology breakdowns — Published on Medium
 
 📄 The 2026 Cybersecurity Certification Trap: Why Paper Credentials Are Failing
 
-[![Medium](https://img.shields.io/badge/Medium-%40sachinpatilsp-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@sachinpatilsp)
-[![InfoSec Writeups](https://img.shields.io/badge/InfoSec%20Write--ups-Contributor-0066CC?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/bugbountywriteup)
+[![Medium](https://img.shields.io/badge/Medium-%40sachinpatilsp-0078D4?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@sachinpatilsp)
+[![InfoSec Writeups](https://img.shields.io/badge/InfoSec%20Writeups-Contributor-0078D4?style=flat-square&logo=medium&logoColor=white)](https://medium.com/bugbountywriteup)
 
 ---
 
@@ -118,58 +121,52 @@ Research writeups, CVE analyses & methodology breakdowns — Published on Medium
 
 <div align="center">
 
-🔬 Penetration Testing
-  
-![Burp Suite](https://img.shields.io/badge/Burp%20Suite-Pro-FF6633?style=flat-square&logo=burpsuite&logoColor=white)
-![Metasploit](https://img.shields.io/badge/Metasploit-Framework-2596CD?style=flat-square&logo=metasploit&logoColor=white)
-![Acunetix](https://img.shields.io/badge/Acunetix-Web%20Scanner-CC0000?style=flat-square)
-![Nmap](https://img.shields.io/badge/Nmap-Network%20Scanner-4B0082?style=flat-square)
-![Nikto](https://img.shields.io/badge/Nikto-Web%20Recon-006400?style=flat-square)
-![WPScan](https://img.shields.io/badge/WPScan-WordPress-464646?style=flat-square)
-![recon-ng](https://img.shields.io/badge/recon--ng-OSINT-8B0000?style=flat-square)
-![Wireshark](https://img.shields.io/badge/Wireshark-Packet%20Analysis-1679A7?style=flat-square&logo=wireshark&logoColor=white)
+### 🧰 Penetration Testing & Web Sec
+![Burp Suite](https://img.shields.io/badge/Burp%20Suite-Pro-0078D4?style=flat-square)
+![Metasploit](https://img.shields.io/badge/Metasploit-Framework-0078D4?style=flat-square)
+![Acunetix](https://img.shields.io/badge/Acunetix-Web%20Scanner-0078D4?style=flat-square)
+![Nmap](https://img.shields.io/badge/Nmap-Network%20Scanner-0078D4?style=flat-square)
+![Nikto](https://img.shields.io/badge/Nikto-Web%20Recon-0078D4?style=flat-square)
+![WPScan](https://img.shields.io/badge/WPScan-WordPress-0078D4?style=flat-square)
+![recon-ng](https://img.shields.io/badge/recon--ng-OSINT-0078D4?style=flat-square)
+![Wireshark](https://img.shields.io/badge/Wireshark-Packet%20Analysis-0078D4?style=flat-square)
 
-🔍 Vulnerability Management
+### 🔍 Vulnerability Management & Triaging
+![Qualys](https://img.shields.io/badge/Qualys-VM%20Platform-0078D4?style=flat-square)
+![Nessus](https://img.shields.io/badge/Nessus-Tenable-0078D4?style=flat-square)
+![Dynatrace](https://img.shields.io/badge/Dynatrace-Monitoring-0078D4?style=flat-square)
+![HCL AppScan](https://img.shields.io/badge/HCL%20AppScan-DAST-0078D4?style=flat-square)
+![HackerOne](https://img.shields.io/badge/HackerOne-300%2B%20Reports-0078D4?style=flat-square)
 
-![Qualys](https://img.shields.io/badge/Qualys-VM%20Platform-ED1C24?style=flat-square)
-![Nessus](https://img.shields.io/badge/Nessus-Tenable-00B4E0?style=flat-square)
-![Dynatrace](https://img.shields.io/badge/Dynatrace-Monitoring-1496FF?style=flat-square&logo=dynatrace&logoColor=white)
-![HCL AppScan](https://img.shields.io/badge/HCL%20AppScan-DAST-003087?style=flat-square)
-![HackerOne](https://img.shields.io/badge/HackerOne-300%2B%20Reports-494649?style=flat-square&logo=hackerone&logoColor=white)
+### 🕵️ Threat Intelligence & Recon
+![Shodan](https://img.shields.io/badge/Shodan-OSINT-0078D4?style=flat-square)
+![MITRE](https://img.shields.io/badge/MITRE%20ATT&CK-Framework-0078D4?style=flat-square)
+![Rapid7](https://img.shields.io/badge/Rapid7-InsightVM-0078D4?style=flat-square)
+![Censys](https://img.shields.io/badge/Censys-Recon-0078D4?style=flat-square)
 
-🕵️ Threat Intelligence
+### 🔬 Binary Analysis & Research
+![Ghidra](https://img.shields.io/badge/Ghidra-12.x-0078D4?style=flat-square)
+![WinDbg](https://img.shields.io/badge/WinDbg-Kernel%20%2B%20User-0078D4?style=flat-square)
+![WinAFL](https://img.shields.io/badge/WinAFL-Fuzzing-0078D4?style=flat-square)
+![GhidraMCP](https://img.shields.io/badge/GhidraMCP-v5.10.0-0078D4?style=flat-square)
 
-![Shodan](https://img.shields.io/badge/Shodan-OSINT-AA1111?style=flat-square)
-![MITRE ATT&CK](https://img.shields.io/badge/MITRE%20ATT%26CK-Framework-CC0000?style=flat-square)
-![Rapid7](https://img.shields.io/badge/Rapid7-InsightVM-F77F00?style=flat-square)
-![Censys](https://img.shields.io/badge/Censys-Recon-1A1A2E?style=flat-square)
+### 🤖 AI-Driven Security Stack
+![Claude AI](https://img.shields.io/badge/Claude%20AI-Anthropic-0078D4?style=flat-square)
+![Gemini](https://img.shields.io/badge/Gemini%20Pro-Google%20AI-0078D4?style=flat-square)
+![Copilot](https://img.shields.io/badge/Copilot-Microsoft-0078D4?style=flat-square)
+![Ollama](https://img.shields.io/badge/Ollama-Local%20LLM-0078D4?style=flat-square)
+![PentestGPT](https://img.shields.io/badge/PentestGPT-AI%20Pentesting-0078D4?style=flat-square)
+![Penligent AI](https://img.shields.io/badge/Penligent%20AI-Automation-0078D4?style=flat-square)
 
-🔧 Binary & Research
+### ☁️ Cloud & Scripting
+![Azure](https://img.shields.io/badge/Azure-Cloud%20Research-0078D4?style=flat-square)
+![AWS](https://img.shields.io/badge/AWS-Bug%20Bounty-0078D4?style=flat-square)
+![Python](https://img.shields.io/badge/Python-Automation-0078D4?style=flat-square)
+![JavaScript](https://img.shields.io/badge/JavaScript-Scripting-0078D4?style=flat-square)
 
-![Ghidra](https://img.shields.io/badge/Ghidra-12.x-FF0000?style=flat-square)
-![WinDbg](https://img.shields.io/badge/WinDbg-Kernel%20%2B%20User-0078D4?style=flat-square&logo=windows&logoColor=white)
-![WinAFL](https://img.shields.io/badge/WinAFL-Fuzzing-DAA520?style=flat-square)
-![GhidraMCP](https://img.shields.io/badge/GhidraMCP-v5.10.0-6A0DAD?style=flat-square)
+### 💻 Operating Systems
 
-🤖 AI-Driven Security Stack
-
-![Claude AI](https://img.shields.io/badge/Claude%20AI-Anthropic-FF6B35?style=flat-square)
-![Gemini](https://img.shields.io/badge/Gemini-Google-4285F4?style=flat-square&logo=googlegemini&logoColor=white)
-![Copilot](https://img.shields.io/badge/Copilot-Microsoft-0078D4?style=flat-square&logo=microsoft&logoColor=white)
-![Ollama](https://img.shields.io/badge/Ollama-Local%20LLM-000000?style=flat-square)
-![PentestGPT](https://img.shields.io/badge/PentestGPT-AI%20Pentesting-00AA00?style=flat-square)
-![Penligent](https://img.shields.io/badge/Penligent%20AI-Automation-5A0FC8?style=flat-square)
-
-☁️ Cloud & Scripting
-
-![Azure](https://img.shields.io/badge/Azure-Cloud%20Research-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-Bug%20Bounty-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
-![Python](https://img.shields.io/badge/Python-Automation-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-Scripting-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-
-💻 Operating Systems
-
-![Kali Linux](https://img.shields.io/badge/Kali%20Linux-Primary-557C94?style=flat-square&logo=kalilinux&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali%20Linux-Primary-0078D4?style=flat-square&logo=kalilinux&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-Research%20VM-0078D4?style=flat-square&logo=windows&logoColor=white)
 </div>
 
@@ -228,11 +225,11 @@ Binary / Fuzzing   ████████████████░░░░ 
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-sachinpatilpsp-181717?style=for-the-badge&logo=github)](https://github.com/sachinpatilpsp)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-sachin--patil--sp-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/sachin-patil-sp)
-[![MSRC](https://img.shields.io/badge/MSRC-sachinpatilsp-0078D4?style=for-the-badge&logo=microsoft)](https://msrc.microsoft.com/leaderboard)
-[![HackerOne](https://img.shields.io/badge/HackerOne-Profile-494649?style=for-the-badge&logo=hackerone)](https://hackerone.com/sachinpatilpsp)
-[![Twitter](https://img.shields.io/badge/Twitter-sachinpatilweb-1DA1F2?style=for-the-badge&logo=x)](https://twitter.com/sachinpatilweb)
+[![GitHub](https://img.shields.io/badge/GitHub-sachinpatilpsp-0078D4?style=flat-square&logo=github&logoColor=white)](https://github.com/sachinpatilpsp)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-sachin--patil--sp-0078D4?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/sachin-patil-sp)
+[![MSRC](https://img.shields.io/badge/MSRC-sachinpatilsp-0078D4?style=flat-square&logo=microsoft&logoColor=white)](https://msrc.microsoft.com/leaderboard)
+[![HackerOne](https://img.shields.io/badge/HackerOne-Profile-0078D4?style=flat-square&logo=hackerone&logoColor=white)](https://hackerone.com/sachinpatilpsp)
+[![Twitter](https://img.shields.io/badge/Twitter-sachinpatilweb-0078D4?style=flat-square&logo=x&logoColor=white)](https://twitter.com/sachinpatilweb)
 
 </div>
 
