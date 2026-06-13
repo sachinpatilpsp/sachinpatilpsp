@@ -170,12 +170,14 @@ Research writeups, CVE analyses & methodology breakdowns — Published on Medium
 </div>
 
 **Research Focus:**
-```
-Windows Internals  ████████████████████  92%
-Cloud (Azure/AWS)  █████████████████░░░  85%
-Web App Security   █████████████████░░░  88%
-Binary / Fuzzing   ████████████████░░░░  80%
-```
+
+| Research Domain | Proficiency | Core Focus Areas |
+| :--- | :--- | :--- |
+| **Open-Source Research** | ![100%](https://geps.dev/progress/100?color=0078D4) | Node.js Libraries, Microsoft & Google OSS, Internet-to-Code |
+| **Windows Internals** | ![92%](https://geps.dev/progress/92?color=0078D4) | Symlink Poisoning, Directory Junctions, Patch Diffing |
+| **Web App Security** | ![88%](https://geps.dev/progress/88?color=0078D4) | Logic Flaws, SSRF, LLM Prompt Injection |
+| **Cloud (Azure/AWS)** | ![85%](https://geps.dev/progress/85?color=0078D4) | ECS Agent Exploits, Container Orchestration |
+| **Binary & Fuzzing** | ![80%](https://geps.dev/progress/80?color=0078D4) | Ghidra MCP, WinAFL, Reverse Engineering |
 
 ---
 
