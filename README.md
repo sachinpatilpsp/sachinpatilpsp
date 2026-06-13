@@ -181,24 +181,29 @@ Research writeups, CVE analyses & methodology breakdowns — Published on Medium
 
 ---
 
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=24&duration=1&pause=1000&color=0078D4&center=false&vCenter=true&repeat=false&width=300&lines=Experience" alt="Experience" />
+## 💼 Professional Experience & Research
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│  Tata Consultancy Services (TCS)                                │
-│  Security Analyst & Vulnerability Researcher                    │
-│  · Enterprise client security assessments                       │
-│  · AI-driven vulnerability triage workflows                     │
-│  · Supply chain & logic-level audit                             │
-├─────────────────────────────────────────────────────────────────┤
-│  Bug Bounty (Microsoft · AWS · NPM)                             │
-│  · 2x MSRC HoF | 3x CVEs | Azure, Edge, AWS, NPM                │
-│  · Patch bypass research, logic flaw hunting                    │
-│  · Windows directory junction / confused deputy attacks         |
-│  · Zero-Day RCE                                                 |   
-├─────────────────────────────────────────────────────────────────┤
+### 🏢 Tata Consultancy Services (TCS)
+**Security Analyst & Vulnerability Researcher**
+* **Enterprise Security:** Executing logic-level audits, patch bypass research, and supply chain security assessments for enterprise clients.
+* **AI Integration:** Recognized as "Idea Igniter 2025-26" at the TCS AI Hackathon for pioneering AI-driven vulnerability triage workflows and automation.
 
-```
+### 🛡️ HackerOne
+**Vulnerability Triage Specialist**
+* **Report Management:** Successfully triaged, validated, and resolved **300+ bug bounty reports**.
+* **Impact:** Worked closely with security teams and researchers to ensure precise vulnerability reproduction, impact assessment, and rapid remediation.
+
+---
+
+## 🐛 Independent Vulnerability Research & Bug Bounty
+
+### ☁️ Cloud & Infrastructure Security
+* **AWS High-Severity (CVE-2026-7461):** Discovered and reported a critical Remote Command Injection vulnerability within the Amazon Web Services ECS Agent.
+* **Microsoft MSRC (2x Hall of Fame):** Acknowledged for deep logic flaw hunting, Zero-Day RCE research, and identifying confused deputy attacks across Azure and Edge platforms.
+
+### 📦 Open-Source & Internet-to-Code Analysis
+* **Filesystem Escapes (CVE-2026-40931):** Identified a critical path traversal and symlink poisoning vulnerability enabling directory junction abuse.
+* **Node.js Ecosystem:** Discovered a high-impact symlink-related arbitrary file write vulnerability in the popular `compressing` Node.js library using advanced internet-to-code methodologies.
 
 ---
 
@@ -212,6 +217,7 @@ Research writeups, CVE analyses & methodology breakdowns — Published on Medium
 </div>
 
 ---
+
 <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=24&duration=1&pause=1000&color=0078D4&center=false&vCenter=true&repeat=false&width=440&lines=Watch%20.%2FSnake%20--eat-contributions" alt="Snake" />
 
 <picture>
