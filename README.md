@@ -258,12 +258,14 @@ Research writeups, CVE analyses & methodology breakdowns — Published on Medium
 
 <div align="center">
 
-```
-· Responsible Disclosure Practitioner · AI-Driven Researcher · Open to Collaboration
-```
+*Responsible Disclosure Practitioner • AI-Driven Researcher • Open to Collaboration*
+
+<br>
 
 *"Security is not a product, but a process." — Bruce Schneier*
 
-![Visitor Count](https://komarev.com/ghpvc/?username=sachinpatilpsp&color=00ff41&style=flat-square&label=PROFILE+VIEWS)
+<br>
+
+![](https://komarev.com/ghpvc/?username=sachinpatilpsp&color=0078D4&style=flat-square&label=PROFILE+VIEWS)
 
 </div>
