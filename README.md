@@ -6,7 +6,7 @@
 </div>
 <br/>
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=24&duration=1&pause=1000&color=87CEEB&center=true&vCenter=true&repeat=false&width=200&lines=Whoami" alt="Whoami" />
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=24&duration=1&pause=1000&color=0078D4&center=true&vCenter=true&repeat=false&width=200&lines=Whoami" alt="Whoami" />
 
 ### Sachin Patil — Security Analyst & Vulnerability Researcher
 
@@ -21,7 +21,7 @@
 
 ---
 
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=24&duration=1&pause=1000&color=87CEEB&center=false&vCenter=true&repeat=false&width=350&lines=Public%20CVE" alt="Public CVEs" />
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=24&duration=1&pause=1000&color=0078D4&center=false&vCenter=true&repeat=false&width=350&lines=Public%20CVE" alt="Public CVEs" />
 
 | CVE ID | Severity | Summary |
 |--------|----------|---------|
@@ -32,7 +32,7 @@
 
 ---
 
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=24&duration=1&pause=1000&color=00FF41&center=false&vCenter=true&repeat=false&width=480&lines=Microsoft%20MSRC%20Acknowledgments" alt="MSRC" />
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=24&duration=1&pause=1000&color=0078D4&center=false&vCenter=true&repeat=false&width=480&lines=Microsoft%20MSRC%20Acknowledgments" alt="MSRC" />
 
 <div align="center">
 
@@ -58,7 +58,7 @@
 
 ---
 
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=24&duration=1&pause=1000&color=00FF41&center=false&vCenter=true&repeat=false&width=340&lines=Achievements" alt="Achievements" />
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=24&duration=1&pause=1000&color=0078D4&center=false&vCenter=true&repeat=false&width=340&lines=Achievements" alt="Achievements" />
 
 | 🏆 Award | Platform | Year |
 |----------|----------|------|
@@ -68,7 +68,7 @@
 | ⭐ **2x Security Advisory Credits** | GitHub Security | 2025–26 |
 ---
 
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=24&duration=1&pause=1000&color=00FF41&center=false&vCenter=true&repeat=false&width=340&lines=Publications" alt="Publications" />
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=24&duration=1&pause=1000&color=0078D4&center=false&vCenter=true&repeat=false&width=340&lines=Publications" alt="Publications" />
 
 Research writeups, CVE analyses & methodology breakdowns — Published on Medium & InfoSec Write-ups
 
@@ -114,7 +114,7 @@ Research writeups, CVE analyses & methodology breakdowns — Published on Medium
 
 ---
 
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=24&duration=1&pause=1000&color=00FF41&center=false&vCenter=true&repeat=false&width=300&lines=Toolchain" alt="Toolchain" />
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=24&duration=1&pause=1000&color=0078D4&center=false&vCenter=true&repeat=false&width=300&lines=Toolchain" alt="Toolchain" />
 
 <div align="center">
 
@@ -183,7 +183,7 @@ Binary / Fuzzing   ████████████████░░░░ 
 
 ---
 
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=24&duration=1&pause=1000&color=00FF41&center=false&vCenter=true&repeat=false&width=300&lines=Experience" alt="Experience" />
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=24&duration=1&pause=1000&color=0078D4&center=false&vCenter=true&repeat=false&width=300&lines=Experience" alt="Experience" />
 
 ```
 ┌─────────────────────────────────────────────────────────────────┐
@@ -204,7 +204,7 @@ Binary / Fuzzing   ████████████████░░░░ 
 
 ---
 
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=24&duration=1&pause=1000&color=00FF41&center=false&vCenter=true&repeat=false&width=340&lines=GitHub%20Stats" alt="Stats" />
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=24&duration=1&pause=1000&color=0078D4&center=false&vCenter=true&repeat=false&width=340&lines=GitHub%20Stats" alt="Stats" />
 
 <div align="center">
 
@@ -214,7 +214,7 @@ Binary / Fuzzing   ████████████████░░░░ 
 </div>
 
 ---
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=24&duration=1&pause=1000&color=00FF41&center=false&vCenter=true&repeat=false&width=440&lines=Watch%20.%2FSnake%20--eat-contributions" alt="Snake" />
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=24&duration=1&pause=1000&color=0078D4&center=false&vCenter=true&repeat=false&width=440&lines=Watch%20.%2FSnake%20--eat-contributions" alt="Snake" />
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sachinpatilpsp/sachinpatilpsp/output/github-snake-dark.svg" />
@@ -224,7 +224,7 @@ Binary / Fuzzing   ████████████████░░░░ 
 
 ---
 
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=24&duration=1&pause=1000&color=00FF41&center=false&vCenter=true&repeat=false&width=240&lines=Social%20Links" alt="Links" />
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=24&duration=1&pause=1000&color=0078D4&center=false&vCenter=true&repeat=false&width=240&lines=Social%20Links" alt="Links" />
 
 <div align="center">
 
@@ -241,7 +241,7 @@ Binary / Fuzzing   ████████████████░░░░ 
 <div align="center">
 
 ```
-· Responsible Disclosure Practitioner · AI-Augmented Researcher · Open to Collaboration
+· Responsible Disclosure Practitioner · AI-Driven Researcher · Open to Collaboration
 ```
 
 *"Security is not a product, but a process." — Bruce Schneier*
