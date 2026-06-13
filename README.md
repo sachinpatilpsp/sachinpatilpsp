@@ -244,12 +244,13 @@ Research writeups, CVE analyses & methodology breakdowns — Published on Medium
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-sachinpatilpsp-0078D4?style=flat-square&logo=github&logoColor=white)](https://github.com/sachinpatilpsp)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-sachin--patil--sp-0078D4?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/sachin-patil-sp)
+[![Twitter](https://img.shields.io/badge/Twitter-sachinpatilweb-0078D4?style=flat-square&logo=x&logoColor=white)](https://twitter.com/sachinpatilweb)
 [![MSRC](https://img.shields.io/badge/MSRC-sachinpatilsp-0078D4?style=flat-square&logo=microsoft&logoColor=white)](https://msrc.microsoft.com/leaderboard)
 [![HackerOne](https://img.shields.io/badge/HackerOne-sachinpatilsp-0078D4?style=flat-square&logo=hackerone&logoColor=white)](https://hackerone.com/sachinpatilsp?type=user)
-[![Twitter](https://img.shields.io/badge/Twitter-sachinpatilweb-0078D4?style=flat-square&logo=x&logoColor=white)](https://twitter.com/sachinpatilweb)
-
+[![Intigriti](https://img.shields.io/badge/Intigriti-sachinpatil-0078D4?style=flat-square&logo=intigriti&logoColor=white)](https://app.intigriti.com/profile/sachinpatil)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-sachinpatilsp-0078D4?style=flat-square&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/sachinpatilsp)
+[![Medium](https://img.shields.io/badge/Medium-%40sachinpatilsp-0078D4?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@sachinpatilsp)
 </div>
 
 ---
