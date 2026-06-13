@@ -247,7 +247,7 @@ Research writeups, CVE analyses & methodology breakdowns — Published on Medium
 [![GitHub](https://img.shields.io/badge/GitHub-sachinpatilpsp-0078D4?style=flat-square&logo=github&logoColor=white)](https://github.com/sachinpatilpsp)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-sachin--patil--sp-0078D4?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/sachin-patil-sp)
 [![MSRC](https://img.shields.io/badge/MSRC-sachinpatilsp-0078D4?style=flat-square&logo=microsoft&logoColor=white)](https://msrc.microsoft.com/leaderboard)
-[![HackerOne](https://img.shields.io/badge/HackerOne-Profile-0078D4?style=flat-square&logo=hackerone&logoColor=white)](https://hackerone.com/sachinpatilpsp)
+[![HackerOne](https://img.shields.io/badge/HackerOne-sachinpatilsp-0078D4?style=flat-square&logo=hackerone&logoColor=white)](https://hackerone.com/sachinpatilsp?type=user)
 [![Twitter](https://img.shields.io/badge/Twitter-sachinpatilweb-0078D4?style=flat-square&logo=x&logoColor=white)](https://twitter.com/sachinpatilweb)
 
 </div>
