@@ -1,15 +1,19 @@
 <div align="center">
 
-<!-- Animated Typing Banner -->
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=22&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=AI-Driven+Security+Researcher;Patch+Bypass+Specialist+%7C+Logic+Flaw+Hunter;MSRC+Hall+of+Fame+%7C+3x+CVE+Holder;300%2B+Bug+Reports+Triaged+on+HackerOne;Windows+Internals+%7C+Ghidra+%7C+Binary+Analysis" alt="Typing SVG" />
+| <img src="https://media2.giphy.com/media/DqiMTFxiXx0VaVZQbF/giphy.gif" width="150"/> | <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=20&duration=3000&pause=1000&color=964B00&center=true&vCenter=true&width=550&lines=Sachin+Patil;AI-Driven+Security+Researcher;Patch+Bypass+Specialist+%7C+Logic+Flaw+Hunter;2x+Microsoft+Hall+of+Fame+%7C+3x+CVE+Holder;300%2B+Bug+Reports+Triaged+%26+Resolved+On+HackerOne;Windows+Internals+%7C+Ghidra+%7C+Binary+Analysis" alt="Typing SVG" /> | <img src="https://media2.giphy.com/media/PegtYx2pANK76lGLgR/giphy.gif" width="150"/> |
+|:---:|:---:|:---:|
 
-# `whoami`
+</div>
+<br/>
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=24&duration=1&pause=1000&color=87CEEB&center=true&vCenter=true&repeat=false&width=200&lines=Whoami" alt="Whoami" />
+
 ### Sachin Patil — Security Analyst & Vulnerability Researcher
 
 ![TCS](https://img.shields.io/badge/TCS-Security%20Analyst-0066CC?style=flat-square&logo=tata-consultancy-services&logoColor=white)
 ![Experience](https://img.shields.io/badge/Experience-8%2B%20Years-green?style=flat-square)
 ![Location](https://img.shields.io/badge/Location-India-orange?style=flat-square&logo=googlemaps&logoColor=white)
-![MSRC](https://img.shields.io/badge/Microsoft-Hall%20of%20Fame-blue?style=flat-square&logo=microsoft&logoColor=white)
+![MSRC](https://img.shields.io/badge/Microsoft-2x%20Hall%20of%20Fame-blue?style=flat-square&logo=microsoft&logoColor=white)
 ![CVE](https://img.shields.io/badge/CVE-3x%20CVE-blue?style=flat-square&logo=microsoft&logoColor=white)
 ![HackerOne](https://img.shields.io/badge/HackerOne-300%2B%20Reports%20Triaged%20&%20Resolved-494649?style=flat-square&logo=hackerone&logoColor=white)
 
@@ -17,7 +21,7 @@
 
 ---
 
-## `Public CVE`
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=24&duration=1&pause=1000&color=87CEEB&center=false&vCenter=true&repeat=false&width=350&lines=Public%20CVE" alt="Public CVEs" />
 
 | CVE ID | Severity | Summary |
 |--------|----------|---------|
@@ -28,7 +32,7 @@
 
 ---
 
-## `Microsoft MSRC Acknowledgments`
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=24&duration=1&pause=1000&color=00FF41&center=false&vCenter=true&repeat=false&width=480&lines=Microsoft%20MSRC%20Acknowledgments" alt="MSRC" />
 
 <div align="center">
 
@@ -54,7 +58,7 @@
 
 ---
 
-## `Achievements`
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=24&duration=1&pause=1000&color=00FF41&center=false&vCenter=true&repeat=false&width=340&lines=Achievements" alt="Achievements" />
 
 | 🏆 Award | Platform | Year |
 |----------|----------|------|
@@ -64,7 +68,7 @@
 | ⭐ **2x Security Advisory Credits** | GitHub Security | 2025–26 |
 ---
 
-## `Publications`
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=24&duration=1&pause=1000&color=00FF41&center=false&vCenter=true&repeat=false&width=340&lines=Publications" alt="Publications" />
 
 Research writeups, CVE analyses & methodology breakdowns — Published on Medium & InfoSec Write-ups
 
@@ -109,6 +113,8 @@ Research writeups, CVE analyses & methodology breakdowns — Published on Medium
 [![InfoSec Writeups](https://img.shields.io/badge/InfoSec%20Write--ups-Contributor-0066CC?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/bugbountywriteup)
 
 ---
+
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=24&duration=1&pause=1000&color=00FF41&center=false&vCenter=true&repeat=false&width=300&lines=Toolchain" alt="Toolchain" />
 
 <div align="center">
 
@@ -177,7 +183,7 @@ Binary / Fuzzing   ████████████████░░░░ 
 
 ---
 
-## `Experience`
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=24&duration=1&pause=1000&color=00FF41&center=false&vCenter=true&repeat=false&width=300&lines=Experience" alt="Experience" />
 
 ```
 ┌─────────────────────────────────────────────────────────────────┐
@@ -198,7 +204,7 @@ Binary / Fuzzing   ████████████████░░░░ 
 
 ---
 
-## `GitHub Stats`
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=24&duration=1&pause=1000&color=00FF41&center=false&vCenter=true&repeat=false&width=340&lines=GitHub%20Stats" alt="Stats" />
 
 <div align="center">
 
@@ -208,7 +214,7 @@ Binary / Fuzzing   ████████████████░░░░ 
 </div>
 
 ---
-## `Activity`
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=24&duration=1&pause=1000&color=00FF41&center=false&vCenter=true&repeat=false&width=440&lines=Watch%20.%2FSnake%20--eat-contributions" alt="Snake" />
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sachinpatilpsp/sachinpatilpsp/output/github-snake-dark.svg" />
@@ -218,7 +224,7 @@ Binary / Fuzzing   ████████████████░░░░ 
 
 ---
 
-## `Links`
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=24&duration=1&pause=1000&color=00FF41&center=false&vCenter=true&repeat=false&width=240&lines=Social%20Links" alt="Links" />
 
 <div align="center">
 
