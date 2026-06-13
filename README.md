@@ -4,7 +4,7 @@
 <img src="https://github.com/user-attachments/assets/41f20a50-a1d3-4535-b5a7-5067104d79c2" alt="Sachin Patil Portrait" width="180">
 <br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=22&duration=3000&pause=1000&color=0078D4&center=true&vCenter=true&width=600&lines=AI-Driven+Security+Researcher;Patch+Bypass+Specialist+%7C+Logic+Flaw+Hunter;MSRC+Hall+of+Fame+%7C+3x+CVE+Holder;Windows+Internals+%7C+Ghidra+%7C+Binary+Analysis" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=22&duration=3000&pause=1000&color=0078D4&center=true&vCenter=true&width=600&lines=AI-Driven+Security+Researcher;Patch+Bypass+Specialist+%7C+Logic+Flaw+Hunter;2x+Microsoft+Hall+of+Fame+%7C+3x+CVE+Holder;Windows+Internals+%7C+Ghidra+%7C+Binary+Analysis" alt="Typing SVG" />
 
 <br>
 
