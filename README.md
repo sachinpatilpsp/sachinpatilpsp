@@ -45,19 +45,19 @@
 
 </div>
 
-**Active MSRC Disclosures:**
-- **Azure Pipelines Agent** — Arbitrary File Write → RCE chain (Important severity, bounty review)
-  - Patch bypass via Windows Directory Junctions → separate submission filed
-- **Microsoft Edge** — Directory Junction EoP / Arbitrary File Deletion (confused deputy) → bounty review
+## 🔬 Vulnerability Research & Disclosures
 
-**Past Research:**
-- Microsoft Semantic Kernel Python SDK — Logging flaw, HITL approval hijacking, OpenAPI SSRF
-- Microsoft Agent Framework — HITL ID hijacking (AF-2026-001), bait-and-switch argument tampering (AF-2026-002)
-- Microsoft PowerToys — SDDL misconfiguration (CWE-732)
-- Chromium Mojo IPC — Policy enforcement regression investigation
-- AWS IAM Authenticator — RBAC privilege escalation via HackerOne
-- AIT-Core Spacecraft GSS — Unauthenticated telemetry exposure (CVSS v3.1 + v4.0)
+### 🟢 Active MSRC Disclosures (Microsoft)
+* **Azure Pipelines Agent** — *Arbitrary File Write to RCE Chain*
+  * **Status:** Important Severity | Bounty Review 
+  * **Vector:** Patch bypass via Windows Directory Junctions.
+* **Microsoft Edge** — *Directory Junction EoP / Arbitrary File Deletion*
+  * **Status:** Critical Severity | Bounty Review
+  * **Vector:** Confused deputy attack leading to privilege escalation.
 
+* **Hall of Fame:** https://msrc.microsoft.com/update-guide/acknowledgement/online
+
+    
 ---
 
 <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=24&duration=1&pause=1000&color=0078D4&center=false&vCenter=true&repeat=false&width=340&lines=Achievements" alt="Achievements" />
@@ -184,26 +184,38 @@ Research writeups, CVE analyses & methodology breakdowns — Published on Medium
 ## 💼 Professional Experience & Research
 
 ### 🏢 Tata Consultancy Services (TCS)
-**Security Analyst & Vulnerability Researcher**
-* **Enterprise Security:** Executing logic-level audits, patch bypass research, and supply chain security assessments for enterprise clients.
-* **AI Integration:** Recognized as "Idea Igniter 2025-26" at the TCS AI Hackathon for pioneering AI-driven vulnerability triage workflows and automation.
+**Security Analyst** (Nov 2021 - Present)
 
-### 🛡️ HackerOne
-**Vulnerability Triage Specialist**
-* **Report Management:** Successfully triaged, validated, and resolved **300+ bug bounty reports**.
-* **Impact:** Worked closely with security teams and researchers to ensure precise vulnerability reproduction, impact assessment, and rapid remediation.
-
+* **Vulnerability Triage & Remediation:** Managed and resolved 300+ security vulnerabilities reported via HackerOne, ensuring end-to-end remediation by collaborating with engineering teams.
+* **Risk Exposure Reduction:** Reduced critical risk exposure by 60% through consistent patching and strategic mitigations across web applications and infrastructure.
+* **Compliance & Audits:** Led infrastructure security audits (internal/external), ensuring compliance with PCI-DSS and GDPR.
+* **Security Automation:** Automated vulnerability scanning using Qualys and tracked remediation via JIRA, achieving a 40% closure rate for high-risk findings.
+* **Stakeholder Reporting & Training:** Authored detailed security reports for stakeholders and trained development teams on secure coding practices, specifically focusing on the OWASP Top 10.
 ---
 
 ## 🐛 Independent Vulnerability Research & Bug Bounty
 
 ### ☁️ Cloud & Infrastructure Security
-* **AWS High-Severity (CVE-2026-7461):** Discovered and reported a critical Remote Command Injection vulnerability within the Amazon Web Services ECS Agent.
-* **Microsoft MSRC (2x Hall of Fame):** Acknowledged for deep logic flaw hunting, Zero-Day RCE research, and identifying confused deputy attacks across Azure and Edge platforms.
+
+* **AWS High-Severity** — `CVE-2026-7461`
+  > Discovered and reported a critical Remote Command Injection vulnerability within the Amazon Web Services ECS Agent.
+  > https://aws.amazon.com/security/security-bulletins/2026-024-aws/
+
+* **Microsoft MSRC** — `2x Hall of Fame`
+  > Acknowledged for deep logic flaw hunting, Zero-Day RCE research, and identifying confused deputy attacks across Azure and Edge platforms.
+  > https://msrc.microsoft.com/update-guide/acknowledgement/online
+
+---
 
 ### 📦 Open-Source & Internet-to-Code Analysis
-* **Filesystem Escapes (CVE-2026-40931):** Identified a critical path traversal and symlink poisoning vulnerability enabling directory junction abuse.
-* **Node.js Ecosystem:** Discovered a high-impact symlink-related arbitrary file write vulnerability in the popular `compressing` Node.js library using advanced internet-to-code methodologies.
+
+* **Node.js Ecosystem** — `CVE-2026-40931` (`compressing` library)
+  > Discovered a high-impact path traversal and symlink poisoning vulnerability enabling filesystem escapes and arbitrary file write.
+  > https://github.com/advisories/GHSA-4c3q-x735-j3r5
+
+* **Axios HTTP Client** — `CVE-2026-42043`
+  > Identified and reported a high-severity Server-Side Request Forgery (SSRF) vulnerability within the Axios HTTP client logic.
+  > https://github.com/advisories/GHSA-pmwg-cvhr-8vh7
 
 ---
 
