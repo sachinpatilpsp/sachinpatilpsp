@@ -10,7 +10,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=28&duration=1&pause=1000&color=0078D4&center=true&vCenter=true&repeat=false&width=350&lines=Whoami" alt="Whoami" />
 
-### Sachin Patil — Security Analyst & Vulnerability Researcher
+### Sachin Patil — AI-Driven Security Researcher
 
 ![TCS](https://img.shields.io/badge/TCS-Security%20Analyst-0078D4?style=flat-square&logo=tata-consultancy-services&logoColor=white)
 ![Experience](https://img.shields.io/badge/Experience-8%2B%20Years-0078D4?style=flat-square)
