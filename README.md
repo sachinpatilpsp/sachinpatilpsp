@@ -1,31 +1,34 @@
 <div align="center">
 
 <!-- Animated Typing Banner -->
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=22&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=AI-Driven+Security+Researcher;Patch+Bypass+Specialist+%7C+Logic+Flaw+Hunter;MSRC+Hall+of+Fame+%7C+3x+CVE+Holder;Windows+Internals+%7C+Ghidra+%7C+Binary+Analysis" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=22&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=AI-Driven+Security+Researcher;Patch+Bypass+Specialist+%7C+Logic+Flaw+Hunter;MSRC+Hall+of+Fame+%7C+3x+CVE+Holder;300%2B+Bug+Reports+Triaged+on+HackerOne;Windows+Internals+%7C+Ghidra+%7C+Binary+Analysis" alt="Typing SVG" />
 
 # `whoami`
-### Sachin Patil — Security Analyst & Vulnerability Researcher @ TCS
+### Sachin Patil — Security Analyst & Vulnerability Researcher
 
 ![TCS](https://img.shields.io/badge/TCS-Security%20Analyst-0066CC?style=flat-square&logo=tata-consultancy-services&logoColor=white)
 ![Experience](https://img.shields.io/badge/Experience-8%2B%20Years-green?style=flat-square)
-![Location](https://img.shields.io/badge/Pune-India-orange?style=flat-square&logo=googlemaps&logoColor=white)
-![MSRC](https://img.shields.io/badge/MSRC-Hall%20of%20Fame-blue?style=flat-square&logo=microsoft&logoColor=white)
+![Location](https://img.shields.io/badge/Location-India-orange?style=flat-square&logo=googlemaps&logoColor=white)
+![MSRC](https://img.shields.io/badge/Microsoft-Hall%20of%20Fame-blue?style=flat-square&logo=microsoft&logoColor=white)
+![CVE](https://img.shields.io/badge/CVE-3x%20CVE-blue?style=flat-square&logo=microsoft&logoColor=white)
+![HackerOne](https://img.shields.io/badge/HackerOne-300%2B%20Reports%20Triaged%20&%20Resolved-494649?style=flat-square&logo=hackerone&logoColor=white)
 
 </div>
 
 ---
 
-## `cat ./public_cves.txt`
+## `Public CVE`
 
 | CVE ID | Severity | Summary |
 |--------|----------|---------|
-| [CVE-2026-42043](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2026-42043) | 🟠 HIGH | **Axios SSRF** — Server-Side Request Forgery in axios HTTP client |
-| [CVE-2026-40931](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2026-40931) | 🔴 HIGH | **Path Traversal + Symlink Poisoning** — Filesystem escape via junction abuse |
 | [CVE-2026-7461](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2026-7461) | 🔴 HIGH | **Amazon ECS Agent** — Remote Command Injection in container orchestration |
+| [CVE-2026-40931](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2026-40931) | 🔴 HIGH | **Path Traversal + Symlink Poisoning** — Filesystem escape via junction abuse |
+| [CVE-2026-42043](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2026-42043) | 🟠 HIGH | **Axios SSRF** — Server-Side Request Forgery in axios HTTP client |
+
 
 ---
 
-## `cat ./msrc_acknowledgments.txt`
+## `Microsoft MSRC Acknowledgments`
 
 <div align="center">
 
@@ -51,35 +54,117 @@
 
 ---
 
-## `ls ./active_projects/`
+## `Achievements`
 
-### ⚙️ Guardian Agent — AI-Powered Vulnerability Management Platform
+| 🏆 Award | Platform | Year |
+|----------|----------|------|
+| 🛡️ **2x Hall of Fame** (consecutive months) | Microsoft MSRC | Apr–May 2026 |
+| 🐛 **300+ Bug Reports Triaged & Resolved** | HackerOne | 2022–2024 |
+| 🔴 **3x Public CVEs** — AWS, NPM,Microsoft | MITRE / NVD | 2026 |
+| ⭐ **2x Security Advisory Credits** | GitHub Security | 2025–26 |
+---
 
-> A private platform for autonomous vulnerability triage, patch analysis, and risk scoring — built on AI-assisted workflow pipelines. Targeting open-source release with AGPL licensing + enterprise monetization tier.
+## `Publications`
 
-![Python](https://img.shields.io/badge/Python-3.11-3776AB?style=flat-square&logo=python&logoColor=white)
-![AI](https://img.shields.io/badge/AI--Driven-Claude%20%2B%20Ghidra-00FF41?style=flat-square)
-![License](https://img.shields.io/badge/License-AGPL--3.0-orange?style=flat-square)
-![Status](https://img.shields.io/badge/Status-Active%20Dev-brightgreen?style=flat-square)
+Research writeups, CVE analyses & methodology breakdowns — Published on Medium & InfoSec Write-ups
 
-**Core capabilities:** Automated CVE triage · Patch diff analysis · Supply chain auditing · CVSS auto-scoring · AI-assisted PoC generation
+
+🔴 CVE Technical Write-ups
+
+📄 Bypassing a Security Patch (CVE-2026-24884)
+
+📄 How We Bypassed an Axios Patch (CVE-2026-42043)
+
+📄 Zero-Day to SYSTEM (RCE): Escaping AWS ECS Containers via OS Command Injection CVE-2026–7461
+
+📄 Beyond the Digits: The Emotional Rollercoaster of My First CVE
+
+🧠 AI & Offensive Security Research
+
+📄 Hacking the Brain of AI: Prompt Injection Methodologies in LLMs
+
+📄 Prompt Playbooks: AI Crime-as-a-Service is Booming on the Dark Web
+
+📄 AI Hallucinations Explained — Why They Happen & Can We Reach 0%?
+
+📄 The AI Governance Gap: Why 77% of Companies Use AI but Only 37% Have a Policy
+
+🌐 Threat Intelligence & Industry Analysis
+
+📄 Nation-State Hackers & Geopolitics: Why 64% of Orgs Fear Espionage
+
+📄 The 2027 Prediction: When Cyberattacks Become Fully Autonomous
+
+📄 The CVE Program Crisis: When the Vulnerability Database Becomes Vulnerable
+
+📄 Q-Day is Coming: How Quantum Computing Will Redefine Offensive Security
+
+🎯 Career & Methodology
+
+📄 Bug Bounty vs Pentesting: A Unique Hybrid Methodology for Both Worlds
+
+📄 The 2026 Cybersecurity Certification Trap: Why Paper Credentials Are Failing
+
+[![Medium](https://img.shields.io/badge/Medium-%40sachinpatilsp-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@sachinpatilsp)
+[![InfoSec Writeups](https://img.shields.io/badge/InfoSec%20Write--ups-Contributor-0066CC?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/bugbountywriteup)
 
 ---
 
-## `cat ./toolchain.txt`
-
 <div align="center">
 
-![Ghidra](https://img.shields.io/badge/Ghidra-12.x-red?style=flat-square)
-![WinDbg](https://img.shields.io/badge/WinDbg-Kernel%20%2B%20User-blue?style=flat-square&logo=windows&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/Burp%20Suite-Pro-orange?style=flat-square)
-![WinAFL](https://img.shields.io/badge/WinAFL-Fuzzing-yellow?style=flat-square)
-![GhidraMCP](https://img.shields.io/badge/GhidraMCP-v5.10.0-purple?style=flat-square)
-![Python](https://img.shields.io/badge/Python-Security%20Tooling-3776AB?style=flat-square&logo=python&logoColor=white)
-![Claude AI](https://img.shields.io/badge/Claude%20AI-Research%20Pipeline-FF6B35?style=flat-square)
+🔬 Penetration Testing
+  
+![Burp Suite](https://img.shields.io/badge/Burp%20Suite-Pro-FF6633?style=flat-square&logo=burpsuite&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-Framework-2596CD?style=flat-square&logo=metasploit&logoColor=white)
+![Acunetix](https://img.shields.io/badge/Acunetix-Web%20Scanner-CC0000?style=flat-square)
+![Nmap](https://img.shields.io/badge/Nmap-Network%20Scanner-4B0082?style=flat-square)
+![Nikto](https://img.shields.io/badge/Nikto-Web%20Recon-006400?style=flat-square)
+![WPScan](https://img.shields.io/badge/WPScan-WordPress-464646?style=flat-square)
+![recon-ng](https://img.shields.io/badge/recon--ng-OSINT-8B0000?style=flat-square)
+![Wireshark](https://img.shields.io/badge/Wireshark-Packet%20Analysis-1679A7?style=flat-square&logo=wireshark&logoColor=white)
+
+🔍 Vulnerability Management
+
+![Qualys](https://img.shields.io/badge/Qualys-VM%20Platform-ED1C24?style=flat-square)
+![Nessus](https://img.shields.io/badge/Nessus-Tenable-00B4E0?style=flat-square)
+![Dynatrace](https://img.shields.io/badge/Dynatrace-Monitoring-1496FF?style=flat-square&logo=dynatrace&logoColor=white)
+![HCL AppScan](https://img.shields.io/badge/HCL%20AppScan-DAST-003087?style=flat-square)
+![HackerOne](https://img.shields.io/badge/HackerOne-300%2B%20Reports-494649?style=flat-square&logo=hackerone&logoColor=white)
+
+🕵️ Threat Intelligence
+
+![Shodan](https://img.shields.io/badge/Shodan-OSINT-AA1111?style=flat-square)
+![MITRE ATT&CK](https://img.shields.io/badge/MITRE%20ATT%26CK-Framework-CC0000?style=flat-square)
+![Rapid7](https://img.shields.io/badge/Rapid7-InsightVM-F77F00?style=flat-square)
+![Censys](https://img.shields.io/badge/Censys-Recon-1A1A2E?style=flat-square)
+
+🔧 Binary & Research
+
+![Ghidra](https://img.shields.io/badge/Ghidra-12.x-FF0000?style=flat-square)
+![WinDbg](https://img.shields.io/badge/WinDbg-Kernel%20%2B%20User-0078D4?style=flat-square&logo=windows&logoColor=white)
+![WinAFL](https://img.shields.io/badge/WinAFL-Fuzzing-DAA520?style=flat-square)
+![GhidraMCP](https://img.shields.io/badge/GhidraMCP-v5.10.0-6A0DAD?style=flat-square)
+
+🤖 AI-Driven Security Stack
+
+![Claude AI](https://img.shields.io/badge/Claude%20AI-Anthropic-FF6B35?style=flat-square)
+![Gemini](https://img.shields.io/badge/Gemini-Google-4285F4?style=flat-square&logo=googlegemini&logoColor=white)
+![Copilot](https://img.shields.io/badge/Copilot-Microsoft-0078D4?style=flat-square&logo=microsoft&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-Local%20LLM-000000?style=flat-square)
+![PentestGPT](https://img.shields.io/badge/PentestGPT-AI%20Pentesting-00AA00?style=flat-square)
+![Penligent](https://img.shields.io/badge/Penligent%20AI-Automation-5A0FC8?style=flat-square)
+
+☁️ Cloud & Scripting
+
 ![Azure](https://img.shields.io/badge/Azure-Cloud%20Research-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-Bug%20Bounty-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+![Python](https://img.shields.io/badge/Python-Automation-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-Scripting-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
+💻 Operating Systems
+
+![Kali Linux](https://img.shields.io/badge/Kali%20Linux-Primary-557C94?style=flat-square&logo=kalilinux&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-Research%20VM-0078D4?style=flat-square&logo=windows&logoColor=white)
 </div>
 
 **Research Focus:**
@@ -92,48 +177,46 @@ Binary / Fuzzing   ████████████████░░░░ 
 
 ---
 
-## `cat ./experience.txt`
+## `Experience`
 
 ```
-┌─────────────────────────────────────────────────────────────┐
-│  Tata Consultancy Services (TCS)            2017 → Present  │
-│  Security Analyst & Vulnerability Researcher                 │
-│  · Enterprise client security assessments                   │
-│  · AI-driven vulnerability triage workflows                 │
-│  · Supply chain & logic-level audit                         │
-├─────────────────────────────────────────────────────────────┤
-│  Bug Bounty (Microsoft · AWS · Google)      2022 → Present  │
-│  · MSRC HoF × 2 | 3x CVEs | Azure, Edge, ECS               │
-│  · Patch bypass research, logic flaw hunting                │
-│  · Windows directory junction / confused deputy attacks     │
-├─────────────────────────────────────────────────────────────┤
-│  Developer Background                       2015 → 2017     │
-│  · IProgrammer Solutions | Dreamcare Developers             │
-│  · Full-stack dev → pivoted to security research            │
-└─────────────────────────────────────────────────────────────┘
+┌─────────────────────────────────────────────────────────────────┐
+│  Tata Consultancy Services (TCS)                                │
+│  Security Analyst & Vulnerability Researcher                    │
+│  · Enterprise client security assessments                       │
+│  · AI-driven vulnerability triage workflows                     │
+│  · Supply chain & logic-level audit                             │
+├─────────────────────────────────────────────────────────────────┤
+│  Bug Bounty (Microsoft · AWS · NPM)                             │
+│  · 2x MSRC HoF | 3x CVEs | Azure, Edge, AWS, NPM                │
+│  · Patch bypass research, logic flaw hunting                    │
+│  · Windows directory junction / confused deputy attacks         |
+│  · Zero-Day RCE                                                 |   
+├─────────────────────────────────────────────────────────────────┤
+
 ```
 
 ---
 
-## `cat ./github_stats.txt`
+## `GitHub Stats`
 
 <div align="center">
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sachinpatilpsp&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=c9d1d9)
-
 ![GitHub Streak](https://streak-stats.demolab.com?user=sachinpatilpsp&theme=github-dark&hide_border=true&background=0d1117&ring=00ff41&fire=ff7b72&currStreakLabel=00ff41)
 
 </div>
 
 ---
 
-## `cat ./links.txt`
+## `Links`
 
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-sachinpatilpsp-181717?style=for-the-badge&logo=github)](https://github.com/sachinpatilpsp)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-sachin--patil--sp-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/sachin-patil-sp)
 [![MSRC](https://img.shields.io/badge/MSRC-sachinpatilsp-0078D4?style=for-the-badge&logo=microsoft)](https://msrc.microsoft.com/leaderboard)
+[![HackerOne](https://img.shields.io/badge/HackerOne-Profile-494649?style=for-the-badge&logo=hackerone)](https://hackerone.com/sachinpatilpsp)
 [![Twitter](https://img.shields.io/badge/Twitter-sachinpatilweb-1DA1F2?style=for-the-badge&logo=x)](https://twitter.com/sachinpatilweb)
 
 </div>
@@ -143,7 +226,7 @@ Binary / Fuzzing   ████████████████░░░░ 
 <div align="center">
 
 ```
-[ SYSTEM ONLINE ] · Responsible Disclosure Practitioner · AI-Augmented Researcher · Open to Collaboration
+· Responsible Disclosure Practitioner · AI-Augmented Researcher · Open to Collaboration
 ```
 
 *"Security is not a product, but a process." — Bruce Schneier*
