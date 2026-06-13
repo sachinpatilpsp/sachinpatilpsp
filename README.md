@@ -1,16 +1,16 @@
 <div align="center">
 
-| <img src="https://media2.giphy.com/media/DqiMTFxiXx0VaVZQbF/giphy.gif" width="150"/> | <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=20&duration=3000&pause=1000&color=964B00&center=true&vCenter=true&width=550&lines=Sachin+Patil;AI-Driven+Security+Researcher;Patch+Bypass+Specialist+%7C+Logic+Flaw+Hunter;2x+Microsoft+Hall+of+Fame+%7C+3x+CVE+Holder;300%2B+Bug+Reports+Triaged+%26+Resolved+On+HackerOne;Windows+Internals+%7C+Ghidra+%7C+Binary+Analysis" alt="Typing SVG" /> | <img src="https://media2.giphy.com/media/PegtYx2pANK76lGLgR/giphy.gif" width="150"/> |
-|:---:|:---:|:---:|
+<br>
+<img src="https://github.com/user-attachments/assets/f3824db9-6650-491b-ba38-95a2d61a38dc" alt="Sachin Patil Portrait" width="180">
+<br><br>
 
-</div>
-<br/>
-<div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=24&duration=1&pause=1000&color=0078D4&center=true&vCenter=true&repeat=false&width=200&lines=Whoami" alt="Whoami" />
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=22&duration=3000&pause=1000&color=0078D4&center=true&vCenter=true&width=600&lines=AI-Driven+Security+Researcher;Patch+Bypass+Specialist+%7C+Logic+Flaw+Hunter;MSRC+Hall+of+Fame+%7C+3x+CVE+Holder;Windows+Internals+%7C+Ghidra+%7C+Binary+Analysis" alt="Typing SVG" />
+
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=28&duration=1&pause=1000&color=0078D4&center=true&vCenter=true&repeat=false&width=350&lines=Whoami" alt="Whoami" />
 
 ### Sachin Patil — Security Analyst & Vulnerability Researcher
-
-<div align="center">
 
 ![TCS](https://img.shields.io/badge/TCS-Security%20Analyst-0078D4?style=flat-square&logo=tata-consultancy-services&logoColor=white)
 ![Experience](https://img.shields.io/badge/Experience-8%2B%20Years-0078D4?style=flat-square)
@@ -19,7 +19,6 @@
 ![CVE](https://img.shields.io/badge/CVE-3x%20CVE-0078D4?style=flat-square)
 ![HackerOne](https://img.shields.io/badge/HackerOne-300%2B%20Reports%20Triaged%20%26%20Resolved-0078D4?style=flat-square&logo=hackerone&logoColor=white)
 
-</div>
 </div>
 
 ---
