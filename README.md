@@ -18,6 +18,7 @@
 ![Microsoft](https://img.shields.io/badge/Microsoft-2x%20Hall%20of%20Fame-0078D4?style=flat-square&logo=microsoft&logoColor=white)
 ![CVE](https://img.shields.io/badge/CVE-3x%20CVE-0078D4?style=flat-square)
 ![HackerOne](https://img.shields.io/badge/HackerOne-300%2B%20Reports%20Triaged%20%26%20Resolved-0078D4?style=flat-square&logo=hackerone&logoColor=white)
+![Open Source](https://img.shields.io/badge/I_❤️-Open_Source-0078D4?style=flat-square)
 
 </div>
 
