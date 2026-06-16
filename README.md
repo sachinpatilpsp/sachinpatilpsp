@@ -50,11 +50,11 @@
 
 ### 🟢 Active MSRC Disclosures (Microsoft)
 * **Azure Pipelines Agent** — *Arbitrary File Write to RCE Chain*
-  * **Status:** Important Severity
+  * **Status:** Important Severity.
   * **Vector:** Arbitrary file write vulnerability enabling a Remote Code Execution (RCE) chain.
 
 * **Microsoft Edge** — *Elevation of Privilege (EoP) & Arbitrary File Deletion to SYSTEM*
-  * **Status:** Critical Severity
+  * **Status:** Critical Severity.
   * **Vector:** Leading to Elevation of Privilege (EoP) and arbitrary file deletion via a confused deputy attack.
 
 * **Hall of Fame:** https://msrc.microsoft.com/update-guide/acknowledgement/online
